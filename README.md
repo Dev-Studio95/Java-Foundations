@@ -24,3 +24,5 @@ This repository contains beginner-level Java programs, neatly classified into ca
 - **Compiler/Runtime:** JDK 21
 - **IDE:** Visual Studio Code
 - **Operating System:** Linux Mint XFCE 22.3
+
+---
