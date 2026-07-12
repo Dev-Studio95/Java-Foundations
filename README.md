@@ -6,7 +6,8 @@ this repo contains beginner level Java Programs classified for easier access
 They are Listed Below - 
 
 - Basic IO and Math programs at [01-Basic-IO-Math](./01-Basic-IO-Math)
-- Unit Conversion and Salary programs at [02-Unit-Conversion](./02-Unit-Conversion)
+- Unit Conversion programs at [02-Unit-Conversion](./02-Unit-Conversion)
+- Money Based or Salary Programs at [03-Money(Salary)-Based](./03-Money(Salary)-Based)
 ---
 
 I have used VS Code and JDK 21.
