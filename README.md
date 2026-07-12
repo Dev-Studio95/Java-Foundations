@@ -6,7 +6,7 @@
 
 ---
 
-Hi, I'm **Dev-Studio95**. 
+Hi, I'm **Dev-Arnav95**. 
 
 This repository contains beginner-level Java programs, neatly classified into categories for easier access and learning. 
 
