@@ -1,1 +1,13 @@
 # Java-Foundations
+---
+
+Hi im Dev-Studio95 ,
+this repo contains beginner level Java Programs classified for easier access 
+They are Listed Below - 
+
+- Basic IO and Math programs at [01-Basic-IO-Math](./01-Basic-IO-Math)
+- Unit Conversion and Salary programs at [02-Unit-Conversion](./02-Unit-Conversion)
+---
+
+I have used VS Code and JDK 21.
+OS - Linux Mint XFCE 22.3
