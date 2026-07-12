@@ -5,7 +5,7 @@
  */
 import java.util.*;
 
-class time-conversion
+class time_conversion
 {
     public static void main() 
     {
