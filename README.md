@@ -10,5 +10,5 @@ They are Listed Below -
 - Money Based or Salary Programs at [03-Money(Salary)-Based](./03-Money(Salary)-Based)
 ---
 
-I have used VS Code and JDK 21.
-OS - Linux Mint XFCE 22.3
+- I have used VS Code and JDK 21.
+- OS - Linux Mint XFCE 22.3
